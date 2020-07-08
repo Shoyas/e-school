@@ -1,0 +1,26 @@
+@media all and (max-width: 800px)
+{
+    .body-card{
+        width: 100%;
+        padding-top: 0px;
+        
+        
+    }
+    .res-pad-bottom{
+        padding-bottom: 20px;
+    }
+}
+
+@media all and
+(max-width : 767px)
+{
+    .body-card{
+        width: 50%;
+        padding-top: 0px;
+        
+    }
+
+    .res-pad-bottom{
+        padding-bottom: 20px;
+    }
+}
