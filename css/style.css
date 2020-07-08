@@ -1,0 +1,72 @@
+.container{
+    padding-bottom: 100px;
+}
+.school-logo{  
+    height: 50px;
+}
+.header-background{
+    background-color: #F0FFF0;
+}
+.nav-item-color li{
+
+    margin: 0 0 0 33px;
+}
+.nav-item-color a:hover{ 
+    
+    background-color: #21B573;
+    border-radius: 50px;
+}
+.nav-link{
+    padding: 14px 0px;
+}
+.nav-button-color{
+    background-color: transparent;
+    border: none;
+    color: black;
+}
+
+.active>.nav-button-color {
+    border-radius: 50px;
+    background-color: #218838;
+    color: white !important;
+}
+.schedule-color{
+    color: #21B573;
+}
+.banner-spech h5{
+    color: #FD511A;
+}
+.banner-spech p{
+    color: gray;
+    padding-bottom: 20px;
+}
+.banner-spech h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.button-color{
+    border-radius: 50px;
+}
+
+
+/* body design start */
+.section-top-space{
+    padding-top: 50px;
+}
+.card{
+    height: 250px;
+    padding-top: 55px;
+    background-color: #F0FFF0;
+    border: none;
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgray;    
+}
+
+/* online courses design start */
+.courses-heading{
+    color: #413960;
+    
+}
