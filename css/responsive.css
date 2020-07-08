@@ -1,3 +1,5 @@
+/* it will be working under 800px width display */
+
 @media all and (max-width: 800px)
 {
     .body-card{
@@ -11,14 +13,21 @@
     }
 }
 
+/* it will be working under 767px width display */
+
 @media all and
 (max-width : 767px)
 {
+
+    /* it is working on body side cards  */
+
     .body-card{
         width: 50%;
         padding-top: 0px;
         
     }
+
+     /* it is working on body side cards and footer side */
 
     .res-pad-bottom{
         padding-bottom: 20px;
